@@ -1,15 +1,10 @@
-1. Filter by ending in 03
-2. fill puerto rico na. 
-3. truncate series ID to 6,7, digit **
-3. append state 
-4. append population  
-5. append income
-
 Data source:
-statecode https://download.bls.gov/pub/time.series/sm/sm.state
 
 unemployment rate
 https://www.bls.gov/data/#unemployment
+
+statecode https://download.bls.gov/pub/time.series/sm/sm.state
+
 
 Population estimates
 https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/state/totals/
